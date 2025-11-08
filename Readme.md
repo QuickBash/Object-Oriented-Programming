@@ -100,8 +100,6 @@ Solo necesitas conocimientos básicos en programación y disposición para traba
 ---
 
 ## 💬 Recomendaciones
-
-📘 Instala StarUML o PlantUML antes de la primera sesión.  
 👥 Trae un cuaderno o tableta para bosquejar diagramas.  
 ⚙️ Familiarízate con los conceptos de clase, objeto y método.  
 📤 Los talleres y proyectos se entregarán a través de Moodle o GitHub.  
