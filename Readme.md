@@ -96,6 +96,8 @@ Solo necesitas conocimientos básicos en programación y disposición para traba
   - Villalobos & Casallas – *Fundamentos de Programación* (Pearson, 2006)  
   - Joyanes Luis – *Fundamentos de Programación, Estructuras de Datos y Objetos* (McGraw-Hill, 2004)  
   - Botero et al. – *Lógica y Programación Orientada a Objetos: un enfoque basado en problemas* (CITIA, TdeA, 2009)  
+### Video curos relacionados
+- [Curso de GIT y GITHUB DESDE CERO Para Aportar a Proyectos](https://youtu.be/niPExbK8lSw?si=AZSrU8WYPof8lTYO)
 
 ---
 
@@ -103,3 +105,4 @@ Solo necesitas conocimientos básicos en programación y disposición para traba
 👥 Trae un cuaderno o tableta para bosquejar diagramas.  
 ⚙️ Familiarízate con los conceptos de clase, objeto y método.  
 📤 Los talleres y proyectos se entregarán a través de Moodle o GitHub.  
+
